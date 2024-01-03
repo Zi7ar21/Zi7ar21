@@ -1,6 +1,6 @@
 ### About Me
 
-Hi, I'm Jacob Bingham! I love all things science, and I want to be an astronomer when I grow up. I love programming in C/C++ and GLSL.
+Hi, I'm Jacob Bingham! I'm a kid with a love for all things computers and science, and want to become a computational astrophysicist. I love low-level programming in C/C++, GLSL, and WGSL.
 
 ### GitHub Pages
 
